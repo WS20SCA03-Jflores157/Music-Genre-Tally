@@ -13,6 +13,17 @@
 		00E356172440B424006D1C2F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00E356152440B424006D1C2F /* Main.storyboard */; };
 		00E356192440B425006D1C2F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00E356182440B425006D1C2F /* Assets.xcassets */; };
 		00E3561C2440B425006D1C2F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00E3561A2440B425006D1C2F /* LaunchScreen.storyboard */; };
+		00E3562D2440F192006D1C2F /* Funk Song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 00E356232440F18F006D1C2F /* Funk Song.mp3 */; };
+		00E3562E2440F192006D1C2F /* Pop Song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 00E356242440F190006D1C2F /* Pop Song.mp3 */; };
+		00E3562F2440F192006D1C2F /* Rock Song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 00E356252440F190006D1C2F /* Rock Song.mp3 */; };
+		00E356302440F192006D1C2F /* Yodeling Song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 00E356262440F190006D1C2F /* Yodeling Song.mp3 */; };
+		00E356312440F192006D1C2F /* K-Pop Song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 00E356272440F190006D1C2F /* K-Pop Song.mp3 */; };
+		00E356322440F192006D1C2F /* Reggaeton Song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 00E356282440F191006D1C2F /* Reggaeton Song.mp3 */; };
+		00E356332440F192006D1C2F /* Smooth Jazz Song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 00E356292440F191006D1C2F /* Smooth Jazz Song.mp3 */; };
+		00E356342440F192006D1C2F /* Techno Song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 00E3562A2440F191006D1C2F /* Techno Song.mp3 */; };
+		00E356352440F192006D1C2F /* Country Song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 00E3562B2440F192006D1C2F /* Country Song.mp3 */; };
+		00E356362440F192006D1C2F /* Classical Song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 00E3562C2440F192006D1C2F /* Classical Song.mp3 */; };
+		00E356392440FA0F006D1C2F /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00E356382440FA0F006D1C2F /* AVFoundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +35,17 @@
 		00E356182440B425006D1C2F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		00E3561B2440B425006D1C2F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		00E3561D2440B425006D1C2F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		00E356232440F18F006D1C2F /* Funk Song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Funk Song.mp3"; sourceTree = "<group>"; };
+		00E356242440F190006D1C2F /* Pop Song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Pop Song.mp3"; sourceTree = "<group>"; };
+		00E356252440F190006D1C2F /* Rock Song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Rock Song.mp3"; sourceTree = "<group>"; };
+		00E356262440F190006D1C2F /* Yodeling Song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Yodeling Song.mp3"; sourceTree = "<group>"; };
+		00E356272440F190006D1C2F /* K-Pop Song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "K-Pop Song.mp3"; sourceTree = "<group>"; };
+		00E356282440F191006D1C2F /* Reggaeton Song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Reggaeton Song.mp3"; sourceTree = "<group>"; };
+		00E356292440F191006D1C2F /* Smooth Jazz Song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Smooth Jazz Song.mp3"; sourceTree = "<group>"; };
+		00E3562A2440F191006D1C2F /* Techno Song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Techno Song.mp3"; sourceTree = "<group>"; };
+		00E3562B2440F192006D1C2F /* Country Song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Country Song.mp3"; sourceTree = "<group>"; };
+		00E3562C2440F192006D1C2F /* Classical Song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Classical Song.mp3"; sourceTree = "<group>"; };
+		00E356382440FA0F006D1C2F /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +53,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00E356392440FA0F006D1C2F /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,6 +65,7 @@
 			children = (
 				00E3560E2440B423006D1C2F /* Music Genre Tally */,
 				00E3560D2440B423006D1C2F /* Products */,
+				00E356372440FA0F006D1C2F /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -63,8 +87,26 @@
 				00E356182440B425006D1C2F /* Assets.xcassets */,
 				00E3561A2440B425006D1C2F /* LaunchScreen.storyboard */,
 				00E3561D2440B425006D1C2F /* Info.plist */,
+				00E3562C2440F192006D1C2F /* Classical Song.mp3 */,
+				00E3562B2440F192006D1C2F /* Country Song.mp3 */,
+				00E356232440F18F006D1C2F /* Funk Song.mp3 */,
+				00E356272440F190006D1C2F /* K-Pop Song.mp3 */,
+				00E356242440F190006D1C2F /* Pop Song.mp3 */,
+				00E356282440F191006D1C2F /* Reggaeton Song.mp3 */,
+				00E356252440F190006D1C2F /* Rock Song.mp3 */,
+				00E356292440F191006D1C2F /* Smooth Jazz Song.mp3 */,
+				00E3562A2440F191006D1C2F /* Techno Song.mp3 */,
+				00E356262440F190006D1C2F /* Yodeling Song.mp3 */,
 			);
 			path = "Music Genre Tally";
+			sourceTree = "<group>";
+		};
+		00E356372440FA0F006D1C2F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				00E356382440FA0F006D1C2F /* AVFoundation.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +167,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00E356302440F192006D1C2F /* Yodeling Song.mp3 in Resources */,
 				00E3561C2440B425006D1C2F /* LaunchScreen.storyboard in Resources */,
+				00E356332440F192006D1C2F /* Smooth Jazz Song.mp3 in Resources */,
+				00E356312440F192006D1C2F /* K-Pop Song.mp3 in Resources */,
 				00E356192440B425006D1C2F /* Assets.xcassets in Resources */,
+				00E3562D2440F192006D1C2F /* Funk Song.mp3 in Resources */,
+				00E356342440F192006D1C2F /* Techno Song.mp3 in Resources */,
+				00E356322440F192006D1C2F /* Reggaeton Song.mp3 in Resources */,
 				00E356172440B424006D1C2F /* Main.storyboard in Resources */,
+				00E356352440F192006D1C2F /* Country Song.mp3 in Resources */,
+				00E3562E2440F192006D1C2F /* Pop Song.mp3 in Resources */,
+				00E356362440F192006D1C2F /* Classical Song.mp3 in Resources */,
+				00E3562F2440F192006D1C2F /* Rock Song.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
